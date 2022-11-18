@@ -7,7 +7,7 @@ const About = () => {
         <div className="col-span-2">
           <p className="uppercase text-xl tracking-widest text-[#5651e5]">About</p>
           <h2>Who I Am</h2>
-          <p className="py-2 text-gray-600">// I am not your normal developer.</p>
+          <p className="py-2 text-gray-600">/ / I am not your normal developer.</p>
           <p className="py-2 text-gray-600">
             I have spent the last 14 years in the hospitality service industry,
             managing a chain of restaurants and cafes. I have always had a knack
