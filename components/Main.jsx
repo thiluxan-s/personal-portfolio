@@ -23,14 +23,22 @@ const Main = () => {
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <Link href="https://www.linkedin.com/in/thiluxan-s-b38599168/">
+              <a
+                href="https://www.linkedin.com/in/thiluxan-s-b38599168/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FaLinkedinIn />
-              </Link>
+              </a>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <Link href="https://github.com/thiluxan-s">
+              <a
+                href="https://github.com/thiluxan-s"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FaGithub />
-              </Link>
+              </a>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
               <Link href="/#contact">
@@ -38,9 +46,13 @@ const Main = () => {
               </Link>
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-              <Link href="https://magic-rubidium-cf7.notion.site/Academics-8d60068cda624c17870d18015196e092">
+              <a
+                href="https://magic-rubidium-cf7.notion.site/Academics-8d60068cda624c17870d18015196e092"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FaBrain />
-              </Link>
+              </a>
             </div>
           </div>
         </div>
