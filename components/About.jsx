@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from "react";
 
 const About = () => {
@@ -10,10 +11,10 @@ const About = () => {
           </p>
           <h2>Who I Am</h2>
           <p className="py-2 text-gray-600">
-            / / I am not your normal developer.
+            // I am not your normal developer.
           </p>
           <p className="py-2 text-gray-600">
-            I have spent 8 years in the hospitality service industry managing a
+            I have spent 8 years in the hospitality service industry, managing a
             chain of restaurants and cafes. I have always had a knack for
             technology and working with computers. In 2014 I started working in
             SEO and content management. This led to me picking up HTML & CSS to
