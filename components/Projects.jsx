@@ -1,15 +1,13 @@
 import React from "react";
-import Image from "next/image";
-import Link from "next/link";
 import photographySite from "../public/assets/projects/Vizion.png";
-import cryptoCoins from "../public/assets/projects/CryptoCoinSearch.png"
-import cookBook from "../public/assets/projects/cookbook.png"
-import dexApp from "../public/assets/projects/dex.png"
+import cryptoCoins from "../public/assets/projects/CryptoCoinSearch.png";
+import cookBook from "../public/assets/projects/cookbook.png";
+import dexApp from "../public/assets/projects/dex.png";
 import ProjectItem from "./ProjectItem";
 
 const Projects = () => {
   return (
-    <div id='projects' className="w-full">
+    <div id="projects" className="w-full pt-4">
       <div className="max-w-[1240px] mx-auto px-2 py-16">
         <p className="text-xl tracking-widest uppercase text-[#5651e5]">
           Projects
