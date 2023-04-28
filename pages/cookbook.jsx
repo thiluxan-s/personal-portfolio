@@ -27,12 +27,21 @@ const cookbook = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This project was built using React. It's a crypto app that displays
-            the top cryptos by total market cap along with other relative data.
-            Powered by Coingecko API.
+            This project was built using React. It's a recipe cookbook
+            application that allows users to enter their ingredients and store
+            recipes in totality, using Firebase for the backend to handle all
+            CRUD operations.
           </p>
           <button className="px-8 py-2 mt-4 mr-8">Demo</button>
-          <button className="px-8 py-2 mt-4">Code</button>
+          <a
+            href="https://github.com/thiluxan-s/Recipe-React-App"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="px-8 py-2 mt-4" href>
+              Code
+            </button>
+          </a>
         </div>
         <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4">
           <div className="p-2">

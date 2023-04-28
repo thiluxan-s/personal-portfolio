@@ -47,13 +47,27 @@ const Contact = () => {
                     </a>
                   </div>
                   <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-                    <FaGithub />
+                    <a
+                      href="https://github.com/thiluxan-s"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaGithub />
+                    </a>
                   </div>
                   <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-                    <AiOutlineMail />
+                    <Link href="/#contact">
+                      <AiOutlineMail />
+                    </Link>
                   </div>
                   <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
-                    <FaBrain />
+                    <a
+                      href="https://magic-rubidium-cf7.notion.site/Academics-8d60068cda624c17870d18015196e092"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <FaBrain />
+                    </a>
                   </div>
                 </div>
               </div>
