@@ -14,36 +14,6 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/assets/skills/html.png"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>HTML</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/css.png"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>CSS</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
                   src="/assets/skills/javascript.png"
                   width="64"
                   height="64"
@@ -134,14 +104,44 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/assets/skills/web3js.png"
+                  src="/assets/skills/solidity.png"
                   width="64"
                   height="64"
                   alt="/"
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
-                <h3>Web3js</h3>
+                <h3>Solidity</h3>
+              </div>
+            </div>
+          </div>
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src="/assets/skills/hardhat.png"
+                  width="64"
+                  height="64"
+                  alt="/"
+                />
+              </div>
+              <div className="flex flex-col items-center justify-center">
+                <h3>Hardhat</h3>
+              </div>
+            </div>
+          </div>
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src="/assets/skills/thegraph.png"
+                  width="64"
+                  height="64"
+                  alt="/"
+                />
+              </div>
+              <div className="flex flex-col items-center justify-center">
+                <h3>The Graph</h3>
               </div>
             </div>
           </div>
@@ -157,36 +157,6 @@ const Skills = () => {
               </div>
               <div className="flex flex-col items-center justify-center">
                 <h3>Tailwind CSS</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/github1.png"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>GitHub</h3>
-              </div>
-            </div>
-          </div>
-          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-            <div className="grid grid-cols-2 gap-4 justify-center items-center">
-              <div className="m-auto">
-                <Image
-                  src="/assets/skills/solidity.png"
-                  width="64"
-                  height="64"
-                  alt="/"
-                />
-              </div>
-              <div className="flex flex-col items-center justify-center">
-                <h3>Solidity</h3>
               </div>
             </div>
           </div>
