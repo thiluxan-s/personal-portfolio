@@ -14,12 +14,11 @@ const Main = () => {
           <h1 className="py-4 text-gray-700">
             Hi, I'm <span className="text-[#5651e5]">Thiluxan</span>
           </h1>
-          <h1 className="py-2 text-gray-700">A Front-End Developer</h1>
+          <h1 className="py-2 text-gray-700">A Full-Stack Developer</h1>
           <p className="py-4 text-gray-600 max-w-[70%] m-auto">
-            I'm a front-end web developer specializing in building exceptional
+            I'm a full-stack web developer specializing in building immersive
             digital experiences. Currently, I'm focused on building responsive
-            front-end web applications while learning back-end technologies and
-            Web3.
+            web applications while learning newer technologies like Web3 and AI.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
