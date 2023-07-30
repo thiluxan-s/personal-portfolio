@@ -18,12 +18,12 @@ const About = () => {
             // I am not your normal developer.
           </p>
           <p className="py-2 text-gray-600">
-            I have spent 8 years in the hospitality industry, managing a chain
-            of restaurants and cafes. I have always had a knack for technology
-            and working with computers. In 2014 I began working in SEO and
-            content strategy. This led to me picking up HTML & CSS to make minor
-            edits to websites of various clients. What I thought was just a few
-            edits quickly turned into a love for programming.
+            I have spent 8 years in the food service industry, managing a chain
+            of restaurants and cafes in Toronto. I have always had a knack for
+            technology and working with computers. In 2014 I began working in
+            SEO and content strategy. This led to me picking up HTML & CSS to
+            make minor edits to websites of various clients. What I thought was
+            just a few edits quickly turned into a love for programming.
           </p>
           <p className="py-2 text-gray-600">
             Fascinated with how intricate programming can be I was quickly drawn
