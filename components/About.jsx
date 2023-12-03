@@ -21,16 +21,19 @@ const About = () => {
             I have spent 8 years in the food service industry, managing a chain
             of restaurants and cafes in Toronto. I have always had a knack for
             technology and working with computers. In 2014 I began working in
-            SEO and content strategy. This led to me picking up HTML & CSS to
-            make minor edits to websites of various clients. What I thought was
-            just a few edits quickly turned into a love for programming.
+            SEO and content delivery. This led to me picking up HTML & CSS to
+            make minor edits to websites of companies from different industries.
+            What I thought was just a few edits quickly turned into a love for
+            programming.
           </p>
           <p className="py-2 text-gray-600">
             Fascinated with how intricate programming can be I was quickly drawn
             to learn more. I started learning JavaScript and was even more
-            enthused with making websites interactive. I then began freelancing
-            for various contractees. I am now spending my time building full
-            stack applications while learning cutting-edge technologies.
+            enthused with making websites interactive. I went on to collaborate
+            with other aspiring developers on larger projects while building for
+            various contractees. I am now spending my time building full stack
+            applications for larger enterprises while learning cutting-edge
+            technologies.
           </p>
           <p className="py-2 text-gray-600 underline cursor-pointer">
             Check out some of my latest projects.
